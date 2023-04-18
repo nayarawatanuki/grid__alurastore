@@ -54,7 +54,7 @@ Esse projeto contém o objetivo de praticar e aperfeiçoar conhecimetos sobre `g
 </br>
 
 ## :open_file_folder: Acesso ao projeto
-Caso tenha interesse em visualizar o que foi realizado: [Meteora](https://nayarawatanuki.github.io/grid__alurastore/) 
+Caso tenha interesse em visualizar o que foi realizado: [Alura Store](https://nayarawatanuki.github.io/grid__alurastore/) 
 
 Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/grid__alurastore/archive/refs/heads/main.zip).
 
